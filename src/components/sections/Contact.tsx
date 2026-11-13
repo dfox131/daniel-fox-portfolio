@@ -10,14 +10,14 @@ const contactLinks = [
   },
   {
     label: 'GitHub',
-    value: 'github.com/danielfox',
-    href: 'https://github.com/danielfox',
+    value: 'github.com/dfox131',
+    href: 'https://github.com/dfox131',
     external: true,
   },
   {
     label: 'LinkedIn',
-    value: 'linkedin.com/in/danielfox',
-    href: 'https://linkedin.com/in/danielfox',
+    value: 'linkedin.com/in/daniel-p-fox',
+    href: 'https://www.linkedin.com/in/daniel-p-fox/',
     external: true,
   },
 ];

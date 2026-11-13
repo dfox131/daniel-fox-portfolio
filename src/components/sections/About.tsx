@@ -7,11 +7,11 @@ const skills = [
   'React',
   'Next.js',
   'Node.js',
+  'Express',
   'Python',
   'PostgreSQL',
-  'AWS',
+  'MongoDB',
   'Docker',
-  'TensorFlow',
   'React Native',
   'Prisma',
   'REST APIs',
@@ -27,18 +27,19 @@ export default function About() {
             <Window title="about.md">
               <div className="space-y-4 text-ink-muted leading-relaxed text-sm">
                 <p>
-                  I&apos;m a full-stack software engineer with a Master&apos;s in Computer Science from Pace
-                  University. I care about clean architecture, solid developer experience, and shipping
-                  software that holds up in production.
+                  I&apos;m a full-stack software engineer based in the San Francisco Bay Area. I earned
+                  my M.S. in Computer Science from Pace University in May 2026, and I work primarily
+                  with React, TypeScript, Node.js, Express, PostgreSQL, and MongoDB.
                 </p>
                 <p>
-                  My work spans web, mobile, and machine learning — from AI-powered MRI analysis systems
-                  to consumer mobile apps. I&apos;m most comfortable working across the entire stack and
-                  taking ownership from design to deployment.
+                  My projects span full-stack web applications, machine learning integration, and
+                  mobile development — from KneeVision, which assesses knee osteoarthritis severity
+                  from X-ray images, to a React Native nutrition tracking app.
                 </p>
                 <p>
-                  Before grad school I completed the NYU Tandon Bridge Program to sharpen my CS
-                  fundamentals. Currently building at Averent.
+                  Most recently, I was a founding member and full stack developer at Averent from May
+                  2025 to February 2026. I also completed the NYU Tandon Bridge Program, which built my
+                  computer science foundations.
                 </p>
               </div>
             </Window>

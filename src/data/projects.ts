@@ -22,7 +22,7 @@ export const projects: Project[] = [
     slug: 'job-application-tracker',
     title: 'AI-Powered Job Application Tracker',
     description:
-      'Full-stack application for managing job applications with AI-powered resume matching and automated job data extraction.',
+      'Full-stack application for managing job applications with AI-assisted job description analysis and automated job data extraction.',
     longDescription:
       'Built a job tracking platform with authentication, application management, and AI-assisted tools to improve the job search workflow.',
     highlights: [
